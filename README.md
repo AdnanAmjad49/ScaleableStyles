@@ -1,2 +1,2 @@
 # ScaleableStyles
- Simple library for styling a multiresolution application
+ Simple Android library for styling a multiresolution application
