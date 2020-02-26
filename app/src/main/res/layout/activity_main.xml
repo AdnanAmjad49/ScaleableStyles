@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_8ssp"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/Text8.Black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text With 8 ssp Style" />
+
+    <TextView
+        style="@style/Text10.Black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text With 10 ssp Style" />
+
+
+    <TextView
+        style="@style/Text15.Black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text With 15 ssp Style" />
+
+    <TextView
+        style="@style/Text19.Black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text With 19 ssp Style" />
+
+
+    <TextView
+        style="@style/Text21.Black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text With 21 ssp Style" />
+
+    <TextView
+        style="@style/Text22.Black.Bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text With 22 ssp Bold Style" />
+
+
+    <TextView
+        style="@style/Text25.Black.Italic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text With 25 ssp Italic Style" />
+
+    <TextView
+        style="@style/Text18.White"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/darker_gray"
+        android:text="Text With 18 ssp White Style"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        style="@style/Text19.White.Bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8ssp"
+        android:background="@android:color/holo_green_dark"
+        android:text="Text With 19 ssp White Bold Style"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        style="@style/Text20.White.Italic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8ssp"
+        android:background="@android:color/holo_blue_dark"
+        android:text="Text With 20 ssp White italic Style"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        style="@style/Text10.White.Bold"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_100sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="100 x 100\nwith 10 ssp" />
+
+</LinearLayout>

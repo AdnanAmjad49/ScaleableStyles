@@ -1,0 +1,3244 @@
+<resources>
+
+    <style name="TextBold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextItalic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="TextBlack">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="TextWhite">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text1">
+        <item name="android:textSize">@dimen/_1ssp</item>
+    </style>
+
+    <style name="Text2">
+        <item name="android:textSize">@dimen/_2ssp</item>
+    </style>
+
+    <style name="Text3">
+        <item name="android:textSize">@dimen/_3ssp</item>
+    </style>
+
+    <style name="Text4">
+        <item name="android:textSize">@dimen/_4ssp</item>
+    </style>
+
+    <style name="Text5">
+        <item name="android:textSize">@dimen/_5ssp</item>
+    </style>
+
+    <style name="Text6">
+        <item name="android:textSize">@dimen/_6ssp</item>
+    </style>
+
+    <style name="Text7">
+        <item name="android:textSize">@dimen/_7ssp</item>
+    </style>
+
+    <style name="Text8">
+        <item name="android:textSize">@dimen/_8ssp</item>
+    </style>
+
+    <style name="Text9">
+        <item name="android:textSize">@dimen/_9ssp</item>
+    </style>
+
+    <style name="Text10">
+        <item name="android:textSize">@dimen/_10ssp</item>
+    </style>
+
+    <style name="Text11">
+        <item name="android:textSize">@dimen/_11ssp</item>
+    </style>
+
+    <style name="Text12">
+        <item name="android:textSize">@dimen/_12ssp</item>
+    </style>
+
+    <style name="Text13">
+        <item name="android:textSize">@dimen/_13ssp</item>
+    </style>
+
+    <style name="Text14">
+        <item name="android:textSize">@dimen/_14ssp</item>
+    </style>
+
+    <style name="Text15">
+        <item name="android:textSize">@dimen/_15ssp</item>
+    </style>
+
+    <style name="Text16">
+        <item name="android:textSize">@dimen/_16ssp</item>
+    </style>
+
+    <style name="Text17">
+        <item name="android:textSize">@dimen/_17ssp</item>
+    </style>
+
+    <style name="Text18">
+        <item name="android:textSize">@dimen/_18ssp</item>
+    </style>
+
+    <style name="Text19">
+        <item name="android:textSize">@dimen/_19ssp</item>
+    </style>
+
+    <style name="Text20">
+        <item name="android:textSize">@dimen/_20ssp</item>
+    </style>
+
+    <style name="Text21">
+        <item name="android:textSize">@dimen/_21ssp</item>
+    </style>
+
+    <style name="Text22">
+        <item name="android:textSize">@dimen/_22ssp</item>
+    </style>
+
+    <style name="Text23">
+        <item name="android:textSize">@dimen/_23ssp</item>
+    </style>
+
+    <style name="Text24">
+        <item name="android:textSize">@dimen/_24ssp</item>
+    </style>
+
+    <style name="Text25">
+        <item name="android:textSize">@dimen/_25ssp</item>
+    </style>
+
+    <style name="Text26">
+        <item name="android:textSize">@dimen/_26ssp</item>
+    </style>
+
+    <style name="Text27">
+        <item name="android:textSize">@dimen/_27ssp</item>
+    </style>
+
+    <style name="Text28">
+        <item name="android:textSize">@dimen/_28ssp</item>
+    </style>
+
+    <style name="Text29">
+        <item name="android:textSize">@dimen/_29ssp</item>
+    </style>
+
+    <style name="Text30">
+        <item name="android:textSize">@dimen/_30ssp</item>
+    </style>
+
+    <style name="Text31">
+        <item name="android:textSize">@dimen/_31ssp</item>
+    </style>
+
+    <style name="Text32">
+        <item name="android:textSize">@dimen/_32ssp</item>
+    </style>
+
+    <style name="Text33">
+        <item name="android:textSize">@dimen/_33ssp</item>
+    </style>
+
+    <style name="Text34">
+        <item name="android:textSize">@dimen/_34ssp</item>
+    </style>
+
+    <style name="Text35">
+        <item name="android:textSize">@dimen/_35ssp</item>
+    </style>
+
+    <style name="Text36">
+        <item name="android:textSize">@dimen/_36ssp</item>
+    </style>
+
+    <style name="Text37">
+        <item name="android:textSize">@dimen/_37ssp</item>
+    </style>
+
+    <style name="Text38">
+        <item name="android:textSize">@dimen/_38ssp</item>
+    </style>
+
+    <style name="Text39">
+        <item name="android:textSize">@dimen/_39ssp</item>
+    </style>
+
+    <style name="Text40">
+        <item name="android:textSize">@dimen/_40ssp</item>
+    </style>
+
+    <style name="Text41">
+        <item name="android:textSize">@dimen/_41ssp</item>
+    </style>
+
+    <style name="Text42">
+        <item name="android:textSize">@dimen/_42ssp</item>
+    </style>
+
+    <style name="Text43">
+        <item name="android:textSize">@dimen/_43ssp</item>
+    </style>
+
+    <style name="Text44">
+        <item name="android:textSize">@dimen/_44ssp</item>
+    </style>
+
+    <style name="Text45">
+        <item name="android:textSize">@dimen/_45ssp</item>
+    </style>
+
+    <style name="Text46">
+        <item name="android:textSize">@dimen/_46ssp</item>
+    </style>
+
+    <style name="Text47">
+        <item name="android:textSize">@dimen/_47ssp</item>
+    </style>
+
+    <style name="Text48">
+        <item name="android:textSize">@dimen/_48ssp</item>
+    </style>
+
+    <style name="Text49">
+        <item name="android:textSize">@dimen/_49ssp</item>
+    </style>
+
+    <style name="Text50">
+        <item name="android:textSize">@dimen/_50ssp</item>
+    </style>
+
+    <style name="Text51">
+        <item name="android:textSize">@dimen/_51ssp</item>
+    </style>
+
+    <style name="Text52">
+        <item name="android:textSize">@dimen/_52ssp</item>
+    </style>
+
+    <style name="Text53">
+        <item name="android:textSize">@dimen/_53ssp</item>
+    </style>
+
+    <style name="Text54">
+        <item name="android:textSize">@dimen/_54ssp</item>
+    </style>
+
+    <style name="Text55">
+        <item name="android:textSize">@dimen/_55ssp</item>
+    </style>
+
+    <style name="Text56">
+        <item name="android:textSize">@dimen/_56ssp</item>
+    </style>
+
+    <style name="Text57">
+        <item name="android:textSize">@dimen/_57ssp</item>
+    </style>
+
+    <style name="Text58">
+        <item name="android:textSize">@dimen/_58ssp</item>
+    </style>
+
+    <style name="Text59">
+        <item name="android:textSize">@dimen/_59ssp</item>
+    </style>
+
+    <style name="Text60">
+        <item name="android:textSize">@dimen/_60ssp</item>
+    </style>
+
+    <style name="Text61">
+        <item name="android:textSize">@dimen/_61ssp</item>
+    </style>
+
+    <style name="Text62">
+        <item name="android:textSize">@dimen/_62ssp</item>
+    </style>
+
+    <style name="Text63">
+        <item name="android:textSize">@dimen/_63ssp</item>
+    </style>
+
+    <style name="Text64">
+        <item name="android:textSize">@dimen/_64ssp</item>
+    </style>
+
+    <style name="Text65">
+        <item name="android:textSize">@dimen/_65ssp</item>
+    </style>
+
+    <style name="Text66">
+        <item name="android:textSize">@dimen/_66ssp</item>
+    </style>
+
+    <style name="Text67">
+        <item name="android:textSize">@dimen/_67ssp</item>
+    </style>
+
+    <style name="Text68">
+        <item name="android:textSize">@dimen/_68ssp</item>
+    </style>
+
+    <style name="Text69">
+        <item name="android:textSize">@dimen/_69ssp</item>
+    </style>
+
+    <style name="Text70">
+        <item name="android:textSize">@dimen/_70ssp</item>
+    </style>
+
+    <style name="Text71">
+        <item name="android:textSize">@dimen/_71ssp</item>
+    </style>
+
+    <style name="Text72">
+        <item name="android:textSize">@dimen/_72ssp</item>
+    </style>
+
+    <style name="Text73">
+        <item name="android:textSize">@dimen/_73ssp</item>
+    </style>
+
+    <style name="Text74">
+        <item name="android:textSize">@dimen/_74ssp</item>
+    </style>
+
+    <style name="Text75">
+        <item name="android:textSize">@dimen/_75ssp</item>
+    </style>
+
+    <style name="Text76">
+        <item name="android:textSize">@dimen/_76ssp</item>
+    </style>
+
+    <style name="Text77">
+        <item name="android:textSize">@dimen/_77ssp</item>
+    </style>
+
+    <style name="Text78">
+        <item name="android:textSize">@dimen/_78ssp</item>
+    </style>
+
+    <style name="Text79">
+        <item name="android:textSize">@dimen/_79ssp</item>
+    </style>
+
+    <style name="Text80">
+        <item name="android:textSize">@dimen/_80ssp</item>
+    </style>
+
+    <style name="Text81">
+        <item name="android:textSize">@dimen/_81ssp</item>
+    </style>
+
+    <style name="Text82">
+        <item name="android:textSize">@dimen/_82ssp</item>
+    </style>
+
+    <style name="Text83">
+        <item name="android:textSize">@dimen/_83ssp</item>
+    </style>
+
+    <style name="Text84">
+        <item name="android:textSize">@dimen/_84ssp</item>
+    </style>
+
+    <style name="Text85">
+        <item name="android:textSize">@dimen/_85ssp</item>
+    </style>
+
+    <style name="Text86">
+        <item name="android:textSize">@dimen/_86ssp</item>
+    </style>
+
+    <style name="Text87">
+        <item name="android:textSize">@dimen/_87ssp</item>
+    </style>
+
+    <style name="Text88">
+        <item name="android:textSize">@dimen/_88ssp</item>
+    </style>
+
+    <style name="Text89">
+        <item name="android:textSize">@dimen/_89ssp</item>
+    </style>
+
+    <style name="Text90">
+        <item name="android:textSize">@dimen/_90ssp</item>
+    </style>
+
+    <style name="Text91">
+        <item name="android:textSize">@dimen/_91ssp</item>
+    </style>
+
+    <style name="Text92">
+        <item name="android:textSize">@dimen/_92ssp</item>
+    </style>
+
+    <style name="Text93">
+        <item name="android:textSize">@dimen/_93ssp</item>
+    </style>
+
+    <style name="Text94">
+        <item name="android:textSize">@dimen/_94ssp</item>
+    </style>
+
+    <style name="Text95">
+        <item name="android:textSize">@dimen/_95ssp</item>
+    </style>
+
+    <style name="Text96">
+        <item name="android:textSize">@dimen/_96ssp</item>
+    </style>
+
+    <style name="Text97">
+        <item name="android:textSize">@dimen/_97ssp</item>
+    </style>
+
+    <style name="Text98">
+        <item name="android:textSize">@dimen/_98ssp</item>
+    </style>
+
+    <style name="Text99">
+        <item name="android:textSize">@dimen/_99ssp</item>
+    </style>
+
+    <style name="Text100">
+        <item name="android:textSize">@dimen/_100ssp</item>
+    </style>
+
+    <!--
+        Text Black
+    -->
+
+    <style name="Text1.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text2.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text3.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text4.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text5.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text6.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text7.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text8.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text9.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text10.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text11.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text12.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text13.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text14.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text15.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text16.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text17.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text18.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text19.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text20.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text21.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text22.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text23.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text24.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text25.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text26.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text27.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text28.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text29.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text30.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text31.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text32.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text33.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text34.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text35.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text36.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text37.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text38.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text39.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text40.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text41.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text42.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text43.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text44.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text45.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text46.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text47.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text48.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text49.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text50.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text51.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text52.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text53.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text54.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text55.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text56.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text57.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text58.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text59.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text60.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text61.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text62.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text63.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text64.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text65.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text66.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text67.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text68.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text69.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text70.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text71.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text72.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text73.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text74.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text75.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text76.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text77.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text78.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text79.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text80.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text81.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text82.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text83.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text84.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text85.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text86.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text87.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text88.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text89.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text90.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text91.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text92.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text93.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text94.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text95.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text96.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text97.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text98.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text99.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text100.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <!--
+        Text Bold
+    -->
+
+    <style name="Text1.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text2.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text3.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text4.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text5.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text6.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text7.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text8.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text9.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text10.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text11.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text12.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text13.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text14.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text15.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text16.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text17.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text18.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text19.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text20.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text21.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text22.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text23.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text24.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text25.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text26.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text27.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text28.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text29.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text30.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text31.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text32.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text33.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text34.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text35.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text36.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text37.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text38.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text39.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text40.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text41.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text42.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text43.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text44.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text45.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text46.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text47.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text48.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text49.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text50.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text51.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text52.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text53.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text54.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text55.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text56.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text57.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text58.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text59.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text60.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text61.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text62.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text63.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text64.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text65.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text66.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text67.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text68.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text69.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text70.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text71.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text72.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text73.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text74.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text75.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text76.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text77.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text78.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text79.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text80.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text81.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text82.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text83.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text84.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text85.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text86.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text87.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text88.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text89.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text90.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text91.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text92.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text93.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text94.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text95.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text96.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text97.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text98.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text99.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text100.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--
+        Text Black Bold
+    -->
+
+    <style name="Text1.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text2.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text3.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text4.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text5.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text6.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text7.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text8.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text9.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text10.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text11.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text12.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text13.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text14.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text15.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text16.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text17.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text18.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text19.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text20.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text21.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text22.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text23.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text24.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text25.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text26.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text27.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text28.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text29.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text30.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text31.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text32.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text33.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text34.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text35.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text36.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text37.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text38.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text39.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text40.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text41.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text42.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text43.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text44.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text45.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text46.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text47.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text48.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text49.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text50.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text51.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text52.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text53.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text54.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text55.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text56.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text57.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text58.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text59.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text60.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text61.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text62.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text63.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text64.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text65.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text66.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text67.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text68.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text69.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text70.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text71.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text72.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text73.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text74.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text75.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text76.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text77.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text78.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text79.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text80.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text81.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text82.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text83.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text84.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text85.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text86.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text87.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text88.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text89.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text90.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text91.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text92.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text93.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text94.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text95.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text96.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text97.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text98.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text99.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text100.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--
+        Text Bold Italic
+    -->
+
+    <style name="Text1.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text2.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text3.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text4.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text5.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text6.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text7.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text8.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text9.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text10.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text11.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text12.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text13.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text14.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text15.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text16.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text17.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text18.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text19.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text20.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text21.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text22.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text23.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text24.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text25.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text26.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text27.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text28.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text29.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text30.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text31.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text32.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text33.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text34.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text35.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text36.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text37.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text38.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text39.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text40.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text41.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text42.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text43.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text44.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text45.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text46.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text47.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text48.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text49.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text50.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text51.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text52.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text53.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text54.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text55.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text56.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text57.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text58.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text59.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text60.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text61.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text62.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text63.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text64.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text65.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text66.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text67.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text68.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text69.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text70.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text71.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text72.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text73.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text74.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text75.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text76.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text77.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text78.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text79.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text80.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text81.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text82.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text83.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text84.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text85.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text86.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text87.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text88.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text89.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text90.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text91.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text92.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text93.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text94.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text95.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text96.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text97.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text98.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text99.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text100.Black.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+    <!--
+       Text White
+   -->
+
+    <style name="Text1.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text2.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text3.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text4.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text5.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text6.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text7.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text8.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text9.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text10.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text11.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text12.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text13.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text14.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text15.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text16.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text17.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text18.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text19.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text20.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text21.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text22.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text23.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text24.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text25.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text26.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text27.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text28.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text29.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text30.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text31.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text32.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text33.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text34.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text35.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text36.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text37.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text38.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text39.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text40.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text41.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text42.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text43.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text44.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text45.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text46.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text47.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text48.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text49.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text50.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text51.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text52.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text53.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text54.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text55.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text56.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text57.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text58.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text59.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text60.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text61.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text62.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text63.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text64.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text65.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text66.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text67.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text68.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text69.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text70.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text71.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text72.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text73.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text74.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text75.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text76.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text77.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text78.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text79.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text80.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text81.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text82.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text83.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text84.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text85.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text86.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text87.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text88.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text89.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text90.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text91.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text92.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text93.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text94.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text95.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text96.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text97.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text98.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text99.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text100.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!--
+     - Text White Bold
+     -->
+
+    <style name="Text1.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text2.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text3.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text4.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text5.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text6.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text7.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text8.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text9.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text10.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text11.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text12.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text13.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text14.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text15.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text16.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text17.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text18.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text19.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text20.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text21.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text22.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text23.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text24.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text25.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text26.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text27.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text28.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text29.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text30.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text31.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text32.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text33.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text34.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text35.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text36.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text37.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text38.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text39.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text40.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text41.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text42.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text43.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text44.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text45.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text46.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text47.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text48.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text49.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text50.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text51.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text52.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text53.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text54.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text55.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text56.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text57.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text58.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text59.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text60.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text61.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text62.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text63.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text64.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text65.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text66.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text67.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text68.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text69.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text70.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text71.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text72.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text73.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text74.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text75.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text76.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text77.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text78.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text79.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text80.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text81.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text82.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text83.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text84.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text85.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text86.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text87.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text88.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text89.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text90.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text91.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text92.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text93.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text94.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text95.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text96.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text97.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text98.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text99.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text100.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--
+    Text White Italic
+    -->
+
+    <style name="Text1.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text2.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text3.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text4.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text5.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text6.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text7.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text8.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text9.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text10.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text11.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text12.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text13.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text14.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text15.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text16.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text17.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text18.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text19.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text20.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text21.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text22.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text23.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text24.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text25.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text26.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text27.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text28.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text29.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text30.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text31.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text32.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text33.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text34.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text35.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text36.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text37.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text38.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text39.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text40.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text41.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text42.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text43.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text44.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text45.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text46.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text47.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text48.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text49.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text50.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text51.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text52.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text53.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text54.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text55.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text56.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text57.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text58.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text59.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text60.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text61.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text62.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text63.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text64.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text65.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text66.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text67.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text68.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text69.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text70.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text71.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text72.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text73.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text74.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text75.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text76.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text77.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text78.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text79.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text80.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text81.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text82.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text83.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text84.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text85.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text86.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text87.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text88.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text89.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text90.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text91.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text92.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text93.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text94.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text95.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text96.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text97.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text98.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text99.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text100.White.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>
